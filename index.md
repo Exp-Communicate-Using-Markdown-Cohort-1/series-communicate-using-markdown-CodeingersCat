@@ -8,3 +8,12 @@
 
 ### Let's try putting an image now
 ![This is an image of Yaktocat, he looks cools I know](https://octodex.github.com/images/yaktocat.png)
+
+### Let's try adding a code block
+````
+    cout << "Hello Worldn\n";
+````
+
+````
+    console.log("Hello World\n");
+````
