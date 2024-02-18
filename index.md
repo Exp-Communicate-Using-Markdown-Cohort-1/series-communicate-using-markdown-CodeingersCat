@@ -17,3 +17,8 @@
 ````
     console.log("Hello World\n");
 ````
+
+### Todo list coming up
+- [x] Learn Javascript
+- [x] Learn React
+- [ ] Learn Golang
